@@ -1,7 +1,7 @@
 {
-  "name": "practica1",
+  "name": "suficiencia",
   "version": "1.0.0",
-  "description": "Práctica 1 - Sistemas Operativos 1 - Vaciones Junio 2019",
+  "description": "Proyecto - Sistemas Operativos 1 - Julio 2019",
   "main": "index.js",
   "scripts": {
     "start": "node index",
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/rjanixz/system-monitor.git"
+    "url": "git+ssh://git@github.com/Jportillo7/system-monitor.git"
   },
-  "author": "Rainman Sián",
+  "author": "Jose Portillo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rjanixz/system-monitor/issues"
+    "url": "https://github.com/Jportillo7/system-monitor/issues"
   },
   "homepage": "https://github.com/rjanixz/system-monitor#readme",
   "devDependencies": {
